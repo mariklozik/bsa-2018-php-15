@@ -1,0 +1,16 @@
+.table td, .table th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table img {
+	width: 100px;
+}
+
+.user-modal .form-control{
+	margin-bottom: 20px;
+}
+
+.img_small {
+	width: 30px;
+}
